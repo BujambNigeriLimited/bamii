@@ -1,0 +1,12 @@
+
+@font-face {
+	font-family: 'DinP' ;
+	src: url(' fonts/dinpro-bold-webfont.woff');
+	src: url(' fonts/dinpro-bold-webfont.woff? #iefix');
+format ('embedded-opentype'),
+		url ('fonts/dinpro-bold-webfont.eot') format ('eot'),
+		url ('fonts/dinpro-bold-webfont.ttf') format ('truetype'),
+		url ('fonts/dinpro-bold-webfont.svg#webfont')
+format ('svg');	
+}
+
